@@ -7,15 +7,15 @@
     "env": {
         "client_id": {
             "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
-            "value": ""
+            "value": "702050740249-qecp92feaph5v1c5rov78ltmn360tija.apps.googleusercontent.com"
         },
         "client_secret": {
             "description": "Client Secret from Google Console (http://bit.ly/37ED7dv)",
-            "value": ""
+            "value": "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"
         },
         "redirect_uri": {
             "description": "Your App URL eg. https://appname.herokuapp.com/api/oauth/google/callback (Replace this with your own)",
-            "value": ""
+            "value": "https://trandaihiep.herokuapp.com/api/oauth/google/callback"
         }
     },
     "stack": "heroku-20"
